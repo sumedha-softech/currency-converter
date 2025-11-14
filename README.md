@@ -2,6 +2,8 @@
 
 A modern currency converter built with **React**, **TypeScript**, **Redux**, and **Vite**. This app allows you to convert an amount from one currency to another, view the result instantly, and keep a history of all your conversions.
 
+# Live Demo URL: [currency-converter](https://currency-converter-pi-orpin.vercel.app/)
+
 ## 📺 Project Demo
 
    ![Currency Project](./doc/currency-convertor.gif)
